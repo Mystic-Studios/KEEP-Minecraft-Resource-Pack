@@ -1,6 +1,7 @@
 {
-  "pack": {
-    "pack_format": 75.0,
-    "description": "KEEP Resource Pack 1.21.11"
-  }
+    "pack": {
+        "description": "KEEP Resource Pack 1.21.11",
+        "min_format": [75, 0],
+		"max_format": [85, 0]
+    }
 }
